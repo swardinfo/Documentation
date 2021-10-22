@@ -1,5 +1,9 @@
 ## Palindromicity Documentation
 
+Note: Due to issues with GitHub hosting office files these can now be found on Google Drive here
+
+https://drive.google.com/drive/folders/1C798OdkDwf9hLUmWLSM4iMZe9QWenJLH
+
 'Palindromic structures in lexicographically sorted matrices - Ver 1.0.docx' outlines the observations I've made and the seven conjectures of which I have derived. It also includes the results of running PalindromicyChecker.
 
 'Palindromic structures in lexicographically sorted matrices - Ver 1.0.xlsx' is an interactive workbook that demonstrates the conjectures from the word document.
